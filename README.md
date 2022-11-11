@@ -5,33 +5,44 @@
 
 ##### - This is my self-made inventory management app for students or teachers.
                          
-![Start](https://user-images.githubusercontent.com/82567656/198508808-dbee0cee-f870-483e-acf0-72c7f96c4f98.png)
+![start](https://user-images.githubusercontent.com/82567656/201368901-cbc0cb8e-d200-4e62-ae48-3408857d5da6.png)
 
 ### This is the sample of Dashboard!
 
-![mainMenu](https://user-images.githubusercontent.com/82567656/199395736-680463d6-91be-4364-9633-1f05c005041c.png)
+![main menu](https://user-images.githubusercontent.com/82567656/201369026-74992b9b-d57d-4913-9c23-945f7d562a40.png)
+
 
 ### This is the compose button output.
 
-
-![email](https://user-images.githubusercontent.com/82567656/199396005-05ef5b48-7fa5-4c63-a627-308cc8522d64.png)
+![compose](https://user-images.githubusercontent.com/82567656/201369120-d9970ed4-fab7-4695-a275-d7fd1951e677.png)
 
 
 ### This is the favorites button output.
 
 
-![favorites](https://user-images.githubusercontent.com/82567656/199396207-1afb4842-a0fe-4eca-bc7e-54c8ee631338.png)
-
+![fav](https://user-images.githubusercontent.com/82567656/201369222-bb54765a-f152-44ab-a07d-937221883ee5.png)
 
 ### This is the recent button output.
 
-![recent](https://user-images.githubusercontent.com/82567656/199396908-90dd5d4f-4602-47a9-b747-cd3a69ff0db3.png)
+![recent](https://user-images.githubusercontent.com/82567656/201369301-fa71d863-117b-40d8-8257-69bb2960a4b1.png)
+
 
 ### This is the trashed button output.
 
-![trash](https://user-images.githubusercontent.com/82567656/199397134-8ef6055f-7e47-464d-9835-9286825f818f.png)
+![trash](https://user-images.githubusercontent.com/82567656/201369379-59c126b6-fdd8-4caa-8eec-c3cba36affca.png)
+
+### This is the settings button output.
+![settings](https://user-images.githubusercontent.com/82567656/201369722-157ce6ed-1ddb-4bd9-bf6f-05479ff5926b.png)
+
+### This is the my files button output.
+![files](https://user-images.githubusercontent.com/82567656/201369922-081f693d-8221-46e1-8448-ab23bb8bd8f5.png)
+
 
 ### This is the about button output.
 
-![about](https://user-images.githubusercontent.com/82567656/199397371-e1f8d526-09e4-40ac-92e8-de18c0b29989.png)
+![about](https://user-images.githubusercontent.com/82567656/201369485-b986eb39-d775-4d94-a81f-e3545c539147.png)
+
+# I will upgrade it soon dont worry!
+
+
 
