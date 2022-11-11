@@ -18,9 +18,7 @@ public class Start {
 
 	private JFrame frame;
 
-	/**
-	 * Launch the application.
-	 */
+	
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -34,16 +32,12 @@ public class Start {
 		});
 	}
 
-	/**
-	 * Create the application.
-	 */
+	
 	public Start() {
 		initialize();
 	}
 
-	/**
-	 * Initialize the contents of the frame.
-	 */
+
 	private void initialize() {
 		frame = new JFrame();
 		frame.setSize(1280,720);
@@ -51,17 +45,19 @@ public class Start {
 		frame.getContentPane().setLayout(null);
 		
 		JPanel panel = new JPanel();
-		panel.setBackground(Color.WHITE);
+		panel.setBackground(new Color(240, 235, 206));
 		panel.setBounds(0, 0, 1264, 681);
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
 		
 		JPanel panel_1 = new JPanel();
+		panel_1.setBackground(new Color(170, 139, 86));
 		panel_1.setBounds(0, 216, 1264, 263);
 		panel.add(panel_1);
 		panel_1.setLayout(null);
 		
 		JButton signupButton = new JButton("Sign up");
+		signupButton.setBackground(new Color(238, 238, 238));
 		signupButton.setFont(new Font("Arial Rounded MT Bold", Font.BOLD, 20));
 		signupButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
@@ -75,6 +71,7 @@ public class Start {
 		panel_1.add(signupButton);
 		
 		JButton loginButton = new JButton("Login");
+		loginButton.setBackground(new Color(238, 238, 238));
 		loginButton.setFont(new Font("Arial Rounded MT Bold", Font.BOLD, 20));
 		
 		loginButton.setBounds(507, 186, 115, 40);
@@ -87,9 +84,9 @@ public class Start {
 		panel_1.add(joinLabel);
 		
 		JLabel lblNewLabel = new JLabel("");
-		lblNewLabel.setIcon(new ImageIcon(new ImageIcon("C:\\Users\\Shane\\Desktop\\Icons for HCI\\logo.png").getImage().getScaledInstance(500, 350, Image.SCALE_DEFAULT)));
-		lblNewLabel.setBounds(411, 11, 500, 220);
-		panel.add(lblNewLabel);
+		lblNewLabel.setBounds(306, 0, 100, 184);
+		panel_1.add(lblNewLabel);
+		lblNewLabel.setIcon(new ImageIcon(new ImageIcon("C:\\Users\\Shane\\Desktop\\Icons for HCI\\coffee-cup.png").getImage().getScaledInstance(100, 100, Image.SCALE_DEFAULT)));
 		
 		loginButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
